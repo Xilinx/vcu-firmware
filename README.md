@@ -6,8 +6,8 @@ Directory structure
 The directory structure is organized as below:
 ```
 |-- top
-    | -- release_a (ex, alpha0)
-    | -- release_b (ex, alpha1)
+    | -- release_a (ex, 1.0.0)
+    | -- release_b (ex, 1.7.3)
          | == lib
               | == firmware
 ```
